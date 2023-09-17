@@ -1,0 +1,11 @@
+Camera2D
+TileMap
+Sprite2D
+CharacterBody2D
+AnimationPlayer
+CollisionShape2D
+StaticBody2D
+ColorRect
+Area2D
+RigidBody2D
+Node2D

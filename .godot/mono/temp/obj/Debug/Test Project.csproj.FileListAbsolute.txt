@@ -1,0 +1,17 @@
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\bin\Debug\Test Project.deps.json
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\bin\Debug\Test Project.runtimeconfig.json
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\bin\Debug\Test Project.dll
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\bin\Debug\Test Project.pdb
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.AssemblyInfo.cs
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.csproj.CopyComplete
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.dll
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\refint\Test Project.dll
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.pdb
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\Test Project.genruntimeconfig.cache
+C:\Users\gusta\Documents\GoDot\Test\.godot\mono\temp\obj\Debug\ref\Test Project.dll
